@@ -1,4 +1,26 @@
-2) S = (D v A ^ C) v ~(B v C)
-3) S = ~(A v B)
-4) S = ~(A ^ B)
-5) S = C v ~B ^ (A v ~D)
+2- 
+S = (V ∨ V ∧ F) ∨ ~(F ∨ F)
+S = (V ∨ F) ∨ ~(F)
+S = V ∨ ~(F)
+S = V ∨ V
+S = V
+3-
+S = (V ∨ F)
+S = ~(V)
+S = F
+4-
+S = ~(V ∧ F)
+S = ~(F)
+S= F
+5-
+S = F ∨ ~F ∧ (V ∨ ~V)
+S = F ∨ V ∧ (V ∨ F)
+S = F ∨ V ∧ V
+S = F ∨ V
+S = V
+
+Respostas:
+S = V
+S = F
+S = F
+S = V 
