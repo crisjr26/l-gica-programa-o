@@ -1,18 +1,22 @@
 2- 
+
 S = (V ∨ V ∧ F) ∨ ~(F ∨ F)
 S = (V ∨ F) ∨ ~(F)
 S = V ∨ ~(F)
 S = V ∨ V
 S = V
 3-
+
 S = (V ∨ F)
 S = ~(V)
 S = F
 4-
+
 S = ~(V ∧ F)
 S = ~(F)
 S= F
 5-
+
 S = F ∨ ~F ∧ (V ∨ ~V)
 S = F ∨ V ∧ (V ∨ F)
 S = F ∨ V ∧ V
